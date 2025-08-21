@@ -177,5 +177,9 @@
   "complete.your.profile.2": "ваш профиль",
   "register.page.terms.of.service.and.honor.code": "Создавая учетную запись, вы соглашаетесь с {tosAndHonorCode} и подтверждаете, что {platformName} и каждый Участник обрабатывают ваши персональные данные в соответствии с {privacyPolicy} .",
   "register.page.honor.code": "Я согласен с {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Я согласен с {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Я согласен с {platformName} {termsOfService}",
+  "login.form.title": "Вход в систему",
+  "login.form.toggle.hide": "Скрыть форму входа",
+  "login.form.toggle.show": "Показать форму входа",
+  "login.orleu.instruction": "Войдите через Orleu ID для продолжения"
 }
